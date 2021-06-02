@@ -22,6 +22,6 @@ thinc==7.0.8
 https://download.pytorch.org/whl/cpu/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
 torchtext==0.3.1
 tqdm==4.32.2
-urllib3==1.25.3
+urllib3==1.26.5
 wasabi==0.2.2
 Werkzeug==0.15.5
